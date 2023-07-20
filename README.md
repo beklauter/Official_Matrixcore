@@ -1,5 +1,5 @@
 # Matrix Core: Your Garry's Mod Community
-![Matrix Logo](lua/img/header.png)
+![Matrix Logo](.img/header.png)
 
 ![Discord](https://discord.gg/zASeKNj97c)
 ![Forum](https://star-evolved-v2.noclip.me/)
