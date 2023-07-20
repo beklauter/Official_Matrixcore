@@ -22,7 +22,11 @@ local api = {}
 
 ## Download
 
+GER:
 Zum Herunterladen einfach nur die Zip in deinem Garry's mod Sever unter dem Ordner Addons entpacken.
+
+ENG:
+To download just unzip the zip in your Garry's mod Sever under the Addons folder.
 
 ## Warnings
 Coming soon!
