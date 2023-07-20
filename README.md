@@ -1,8 +1,8 @@
 # Matrix Core: Your Garry's Mod Community
 ![Matrix Logo](.img/Matrix.png)
 
-![Discord]([<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/4Ysaw7YWeA))
-![Forum]([<img src=".img/Matrix.png" width="3.5%"/>]([https://discord.gg/4Ysaw7YWeA](https://star-evolved-v2.noclip.me/)))
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/4Ysaw7YWeA)
+[<img src=".img/Matrix.png" width="3.5%"/>]([https://discord.gg/4Ysaw7YWeA](https://star-evolved-v2.noclip.me/))
 
 ## Adding Matrix Core to your Server
 
