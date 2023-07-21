@@ -1,5 +1,6 @@
 -- sv_anticheat.lua
 
+-- Credits to the Anticheat author MAC
 include("config/matrix_config.lua")
 // == NETWORKING
 local m_network_strings = {"m_validate_player", "m_network_data", "m_check_synced_data", "m_loaded", "backup_data_transfer"}

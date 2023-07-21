@@ -21,6 +21,7 @@ matrix_anti_cheat_config.m_log_discord = true -- Relays data to a discord webhoo
 --[[
 HOW TO GET A STEAM API KEY
 
+-- CREDITS TO MAC
 1. Visit https://steamcommunity.com/dev/apikey
 2. Name the key something
 3. Create the key
